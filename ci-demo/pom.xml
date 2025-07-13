@@ -36,3 +36,6 @@
 
 </project>
 
+<name>ci-demo</name>
+<!-- CI Trigger for Jenkins - Task 4 -->
+<url>http://maven.apache.org</url>
