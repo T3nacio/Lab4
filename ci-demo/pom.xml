@@ -9,6 +9,7 @@
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>ci-demo</name>
+<!-- CI Trigger for Jenkins - Task4 -->
   <url>http://maven.apache.org</url>
 
   <dependencies>
@@ -35,7 +36,3 @@
   </build>
 
 </project>
-
-<name>ci-demo</name>
-<!-- CI Trigger for Jenkins - Task 4 -->
-<url>http://maven.apache.org</url>
